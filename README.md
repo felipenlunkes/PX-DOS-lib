@@ -3,14 +3,14 @@
 <h1>PX-DOS libc</h1>
 <h1>libc do PX-DOS</h3>
 
-![](https://img.shields.io/github/license/felipenlunkes/PX-DOS.svg)
-![](https://img.shields.io/github/stars/felipenlunkes/PX-DOS.svg)
-![](https://img.shields.io/github/issues/felipenlunkes/PX-DOS.svg)
-![](https://img.shields.io/github/issues-closed/felipenlunkes/PX-DOS.svg)
-![](https://img.shields.io/github/issues-pr/felipenlunkes/PX-DOS.svg)
-![](https://img.shields.io/github/issues-pr-closed/felipenlunkes/PX-DOS.svg)
-![](https://img.shields.io/github/downloads/felipenlunkes/PX-DOS/total.svg)
-![](https://img.shields.io/github/release/felipenlunkes/PX-DOS.svg)
+![](https://img.shields.io/github/license/felipenlunkes/PX-DOS-libc.svg)
+![](https://img.shields.io/github/stars/felipenlunkes/PX-DOS-libc.svg)
+![](https://img.shields.io/github/issues/felipenlunkes/PX-DOS-libc.svg)
+![](https://img.shields.io/github/issues-closed/felipenlunkes/PX-DOS-libc.svg)
+![](https://img.shields.io/github/issues-pr/felipenlunkes/PX-DOS-libc.svg)
+![](https://img.shields.io/github/issues-pr-closed/felipenlunkes/PX-DOS-libc.svg)
+![](https://img.shields.io/github/downloads/felipenlunkes/PX-DOS-libc/total.svg)
+![](https://img.shields.io/github/release/felipenlunkes/PX-DOS-libc.svg)
 
 </div>
 
@@ -41,7 +41,7 @@
 
 <div align="justify">
 
-To build PX-DOS libc , you will need the following dependencies:
+To build PX-DOS libc, you will need the following dependencies:
 
 </div>
 
